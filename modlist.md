@@ -41,6 +41,27 @@ Name                                     | Version                     | Author
 [Clumps]                                 | 1.19.2-9.0.0+14             | Jaredlll08
 [CodeChicken Lib 1.8.+]                  | 1.19.2-4.3.1.481-universal  | covers1624, Chicken_Bones
 [CoFH Core]                              | 1.19.2-10.2.1.40            | TeamCoFH, KingLemmingCoFH
+[Collective]                             | 1.19.2-6.53                 | Serilum
+[Construction Wand]                      | 1.19.2-2.9                  | ThetaDev
+[Content Creator Integration (Forge)]    | 1.19.2-Forge-1.11.0         | ohaiiChun
+[Cooking for Blockheads]                 | 1.19.2-13.3.1               | BlayTheNinth
+[Corn Delight]                           | 1.0.0-1.19                  | sz0999312
+[Cosmetic Armor Reworked]                | 1.19.2-v1a                  | LainMI
+[Create]                                 | 1.19.2-0.5.0.i              | simibubi
+[Create Crafts & Additions]              | 1.19.2-20230315b            | MRHminer
+[Create Plus]                            | 1.19.2_v0.5.2a              | Robocraft999
+[Create: Steam 'n Rails]                 | 1.19.2-1.1.1                | mattentosh, violet_scarelli, spottytheturtle, slimeistdev, to0pa_fr
+[CreativeCore]                           | v2.9.3_mc1.19.2             | CreativeMD
+[Cucumber Library]                       | 1.19.2-6.0.6                | BlakeBr0
+[Cultural Delights]                      | 1.19.2-0.15.1               | NCP_Bails
+[Curios API (Forge)]                     | 1.19.2-5.1.3.0              | TheIllusiveC4
+[Custom Window Title]                    | 1.19+v1.1.1                 | chylex
+[Customizable Elytra]                    | 1.19.0-1.7.4                | Hidoni
+[Death Counter (Forge)]                  | 1.19.2-Forge-1.3.0          | ohaiiChun
+[Decorative Blocks]                      | 1.19.2-3.0.0                | stohun, lilypuree
+[Display Case]                           | 1.19-1.0.3                  | ChappiePie
+[Dragon Mounts: Legacy]                  | 1.19.2-1.1.4a               | UnitKay9
+[Drawers Tooltip]                        | 1.19-forge-6.0.0            | Snownee_
 
 <!-- Mod links -->
 
@@ -79,3 +100,24 @@ Name                                     | Version                     | Author
 [Clumps]:                                   https://www.curseforge.com/minecraft/mc-mods/clumps
 [CodeChicken Lib 1.8.+]:                    https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8
 [CoFH Core]:                                https://www.curseforge.com/minecraft/mc-mods/cofh-core
+[Collective]:                               https://www.curseforge.com/minecraft/mc-mods/collective
+[Construction Wand]:                        https://www.curseforge.com/minecraft/mc-mods/construction-wand
+[Content Creator Integration (Forge)]:      https://www.curseforge.com/minecraft/mc-mods/content-creator-integration
+[Cooking for Blockheads]:                   https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads
+[Corn Delight]:                             https://www.curseforge.com/minecraft/mc-mods/corn-delight
+[Cosmetic Armor Reworked]:                  https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked
+[Create]:                                   https://www.curseforge.com/minecraft/mc-mods/create
+[Create Crafts & Additions]:                https://www.curseforge.com/minecraft/mc-mods/createaddition
+[Create Plus]:                              https://www.curseforge.com/minecraft/mc-mods/create-plus
+[Create: Steam 'n Rails]:                   https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails
+[CreativeCore]:                             https://www.curseforge.com/minecraft/mc-mods/creativecore
+[Cucumber Library]:                         https://www.curseforge.com/minecraft/mc-mods/cucumber
+[Cultural Delights]:                        https://www.curseforge.com/minecraft/mc-mods/cultural-delights
+[Curios API (Forge)]:                       https://www.curseforge.com/minecraft/mc-mods/curios
+[Custom Window Title]:                      https://www.curseforge.com/minecraft/mc-mods/custom-window-title
+[Customizable Elytra]:                      https://www.curseforge.com/minecraft/mc-mods/customizable-elytra
+[Death Counter (Forge)]:                    https://www.curseforge.com/minecraft/mc-mods/death-counter
+[Decorative Blocks]:                        https://www.curseforge.com/minecraft/mc-mods/decorative-blocks
+[Display Case]:                             https://www.curseforge.com/minecraft/mc-mods/displaycase
+[Dragon Mounts: Legacy]:                    https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy
+[Drawers Tooltip]:                          https://www.curseforge.com/minecraft/mc-mods/drawers-tooltip
